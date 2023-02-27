@@ -1,0 +1,14 @@
+{
+  "name": "someBlock",
+  "type": "package",
+  "blockId": "HgTev8CmuqdqdOJ6lKu5p",
+  "source": {
+    "https": "https://github.com/devthalal/someBlock",
+    "ssh": "git@github.com:devthalal/someBlock.git"
+  },
+  "supportedAppblockVersions": [
+    [
+      "1.0.0"
+    ]
+  ]
+}
